@@ -4,8 +4,8 @@
 
 **Unity와 C#**으로 개발한 **Rumble Heores** 이름의 **개인 창작 2D 타워 디펜스 게임**입니다. 재화로 아군을 소환하고, 자동으로 전진하는 유닛의 전투와 몬스터 처치 보상을 통해 병력을 운영하며 상대 진영 돌파를 목표로 합니다.
 **컴포넌트·프리팹 기반 게임 구성**부터 **자동 전투·타격 판정**, **재화·소환**, **튜토리얼·스테이지 진행**, **UI·애니메이션 연동**까지 구현했습니다.
-### [GitHub Repository](https://github.com/Nu-LungJi/Unity2D_Personal_Project)
-### [게임 시연 영상](https://youtu.be/J_bWPzjMYHE)
+## [GitHub Repository](https://github.com/Nu-LungJi/Unity2D_Personal_Project)
+## [게임 시연 영상 (Demo Video)](https://youtu.be/J_bWPzjMYHE)
 
 | 항목     | 내용                                                       |
 | ------ | -------------------------------------------------------- |
